@@ -1,0 +1,9 @@
+[credential]
+	helper = cache
+[user]
+	name = AlanRosenthal
+	email = alan.rosenthal@gmail.com
+[alias]
+	s = status
+[core]
+	editor = vim -f
